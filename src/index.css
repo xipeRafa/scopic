@@ -1,7 +1,6 @@
 body {
   margin: 0;
-  background-color: #3f5349e0;
-  margin-left: 100px;
+  background-color: rgb(235, 235, 235);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;

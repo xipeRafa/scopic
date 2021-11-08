@@ -1,12 +1,11 @@
+import React from 'react';
+import { NavComp } from './components/authentication/NavComp';
+
 
 function App() {
-
   return (
-    <div>
-
-        <p>SI</p>
-    </div>
-  )
-}
+      <NavComp />
+  );
+};
 
 export default App
