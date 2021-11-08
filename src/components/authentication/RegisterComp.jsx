@@ -12,6 +12,7 @@ export const RegisterComp = () => {
 
   const openForm = () => setShowForm(true);
   const closeForm = () => setShowForm(false);
+  
   const submitForm = async (e) => {
     e.preventDefault();
     setError('');
